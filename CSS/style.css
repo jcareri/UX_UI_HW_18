@@ -245,15 +245,17 @@ footer {
     
     /* Footer styles start here */
     .pages {
-        width: 70%;
-        margin: 0%;
-        padding-right: 1%;
+        width: 100%;
+        text-align: center;
         vertical-align: middle;
     }
     .location {
-        width: 20%;
-        float: right;
-        padding-top: 4%;
-        padding-right: 2%;
+        width: 100%;
+        text-align: center;
+        vertical-align: middle;
+    }
+    .footerItem {
+        padding-left: 15px;
+        padding-right: 15px;
     }
 }
